@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Orel Yoshia, a student at 👩🏻&zwj;💻 Florida Polytechnic University, pursuing a MS CS degree, concentrating in Data Science. <br>
+I'm Orel Yoshia, a student at 👩🏻&zwj;💻 *Florida Polytechnic University*, pursuing a MS CS degree, concentrating in Data Science. <br>
 I am also an Adjunct Professor teaching Intro to Data Science 👩&zwj;🏫. <br>
 
 ---
