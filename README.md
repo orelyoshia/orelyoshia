@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-I'm Orel Yoshia, a student at 👩🏻&zwj;💻 *Florida Polytechnic University*, pursuing a MS CS degree, concentrating in Data Science. <br>
-I am also an Adjunct Professor who taught Intro to Data Science and is now teaching Cloud Infrastructure and Services 👩&zwj;🏫. <br>
+I'm Orel Yoshia, a recent graduate from 👩🏻&zwj;💻 *Florida Polytechnic University*, with a MS CS degree, concentrating in Data Science. <br>
+I am also an Adjunct Professor who teaches Intro to Data Science and Cloud Infrastructure and Services 👩&zwj;🏫. <br>
 
 ---
 **Interests:**
