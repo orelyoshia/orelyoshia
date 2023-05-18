@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-I'm Orel Yoshia, a recent graduate from 👩🏻&zwj;💻 *Florida Polytechnic University*, with a MS CS degree, concentrating in Data Science. <br>
+I'm Orel Yoshia, a graduate from 👩🏻&zwj;💻 *Florida Polytechnic University*, with a MS CS degree, concentrating in Data Science. <br>
 I am also an Adjunct Professor who teaches Intro to Data Science and Cloud Infrastructure and Services 👩&zwj;🏫. <br>
+I love story telling with my visualizations and sharing my passion for data.
 
 ---
 **Interests:**
